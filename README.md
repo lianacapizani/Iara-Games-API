@@ -1,6 +1,6 @@
 ## Iara Games API
 
-Este repositório contém a API para o projeto Iara Games, desenvolvida usando Python e o framework FastAPI.
+Este repositório contém a API para o [projeto Iara Games](https://github.com/lianacapizani/Iara-Games/tree/feat_api_integration), desenvolvida usando Python e o framework FastAPI.
 A  API fornece funcionalidades essenciais para a listagem de jogos na seção da loja do projeto Iara Games.
 
 ### Funcionalidades
